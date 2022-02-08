@@ -1,0 +1,10 @@
+{
+    "alexcui.filesystem.name": "File System",
+    "alexcui.filesystem.description": "An extension for accessing file system.",
+    "alexcui.filesystem.category": "File System",
+    "alexcui.filesystem.currentPath": "current path",
+    "alexcui.filesystem.exists": "path [path] exists?",
+    "alexcui.filesystem.createFile": "create file [path]",
+    "alexcui.filesystem.writeFileWithModeAsync": "write [data] to file [path] with mode [mode] (async)",
+    "alexcui.filesystem.readFileSync": "read file [path]"
+}
